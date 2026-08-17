@@ -17,8 +17,6 @@ I also have experience with **NumPy, Pandas, Scikit-learn, and PyTorch**. I'm co
 - 🔬 Exploring **Machine Learning & Data Science**
 - 💼 Looking for opportunities as a **Junior Python Developer / Intern**
 
-
-Latest
 ## 🛠️ Languages & Tools
 
 ### Languages
